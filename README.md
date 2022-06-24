@@ -1,10 +1,13 @@
+<p dir="auto">
 Follow design which is given below 
-First screen enter any number 
-Any 1 random button should be red color and it should be clickable and other button will be disable and should be gray color check screen-2
-Now on click of “red” button from remaining button any 1 random button will become red color and last button will be become green color check screen-3,4
-This process will repeat until all button will become green and one button red check screen-5
+</p>
 
-
+<p dir="auto">
+1.First screen enter any number 
+2.Any 1 random button should be red color and it should be clickable and other button will be disable and should be gray color check screen-2
+3.Now on click of “red” button from remaining button any 1 random button will become red color and last button will be become green color check screen-3,4
+4.This process will repeat until all button will become green and one button red check screen-5
+</p>
 
 <p dir="auto">
 <img src="images/Screenshot_1656080871.png" width="250" height="450" style="max-width: 100%;">
