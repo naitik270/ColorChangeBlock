@@ -5,8 +5,12 @@ Now on click of “red” button from remaining button any 1 random button will 
 This process will repeat until all button will become green and one button red check screen-5
 
 
+
+<p dir="auto">
+<img src="images/Screenshot_1656080871.png" width="250" height="450" style="max-width: 100%;">
 <img src="images/Screenshot_1656080836.png" width="250" height="450" style="max-width: 100%;">
-<img src="images/Screenshot_1656080836.png" width="250" height="450" style="max-width: 100%;">
+</p>
+
 
 
 ## Licence
