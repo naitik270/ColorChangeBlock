@@ -1,9 +1,7 @@
 
 <p align="center">
-        <img src="file:/C:\Users\Dhruv\AndroidStudioProjects\ColorChangeBlock\images\Screenshot_1656080836.png" alt="Site Logo" width="50" height="50">
-		<img src="../AndroidStudioProjects\ColorChangeBlock\images\Screenshot_1656080836.png" alt="Mountain">
-
-
+      
+<img src="/naitik270/ColorChangeBlock\images\Screenshot_1656080836.png" width="250" height="450" style="max-width: 100%;">
 </p>
 
 ## Licence
