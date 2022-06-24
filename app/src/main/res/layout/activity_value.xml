@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edt_value"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/cust_edt_txt"
+        android:drawablePadding="@dimen/_8sdp"
+        android:hint="Enter Any number"
+        android:inputType="number"
+        android:paddingStart="@dimen/_10sdp"
+        android:paddingLeft="@dimen/_10sdp"
+        android:textSize="@dimen/_11sdp" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="@dimen/_34sdp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:background="@drawable/cust_button_color"
+        android:text="View in list"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_12sdp" />
+
+    <Button
+        android:id="@+id/btn_grid"
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="@dimen/_34sdp"
+        android:background="@drawable/cust_button_color"
+        android:text="View in grid"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_12sdp" />
+
+</LinearLayout>

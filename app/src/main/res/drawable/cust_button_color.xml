@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="#FFFFFF"
+    tools:ignore="NewApi"
+    tools:targetApi="lollipop">
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <gradient
+                android:endColor="@color/btn_clr"
+                android:startColor="@color/btn_clr"
+                android:type="linear" />
+            <corners android:radius="15dp" />
+
+        </shape>
+    </item>
+</ripple>
