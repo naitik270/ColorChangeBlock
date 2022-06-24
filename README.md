@@ -1,7 +1,6 @@
 
 <p align="center">
-<img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="80">
-  <img src="C:\Users\Dhruv\AndroidStudioProjects\ColorChangeBlock\imagesScreenshot_1656080836.png" width="350" title="hover text">
+<img src="C:\Users\Dhruv\AndroidStudioProjects\ColorChangeBlock\imagesScreenshot_1656080836.png" alt="Simply Easy Learning" width="200" height="80">
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
