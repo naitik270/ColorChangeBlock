@@ -1,7 +1,6 @@
 
 <p align="center">
-      
-<img src="/naitik270/ColorChangeBlock\images\Screenshot_1656080836.png" width="250" height="450" style="max-width: 100%;">
+<img src="/naitik270/ColorChangeBlock/images/Screenshot_1656080836.png" width="250" height="450" style="max-width: 100%;">
 </p>
 
 ## Licence
