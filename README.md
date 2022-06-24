@@ -3,15 +3,23 @@ Follow design which is given below
 </p>
 
 <p dir="auto">
+<li>
 1.First screen enter any number 
+</li>
+<li>
 2.Any 1 random button should be red color and it should be clickable and other button will be disable and should be gray color check screen-2
+</li>
+<li>
 3.Now on click of “red” button from remaining button any 1 random button will become red color and last button will be become green color check screen-3,4
+</li>
+<li>
 4.This process will repeat until all button will become green and one button red check screen-5
+</li>
 </p>
 
 <p dir="auto">
-<img src="images/Screenshot_1656080871.png" width="250" height="450" style="max-width: 100%;">
 <img src="images/Screenshot_1656080836.png" width="250" height="450" style="max-width: 100%;">
+<img src="images/Screenshot_1656080871.png" width="250" height="450" style="max-width: 100%;">
 </p>
 
 
